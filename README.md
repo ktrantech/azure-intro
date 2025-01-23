@@ -26,7 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Upload the text file you created to the Azure Storage Account
 - Edit the file within the Storage Account
 
-<h2>Introduction to Microsoft Azure Steps</h2>
+<h2>Step 1. Configure a resource group & storage account</h2>
 
  Step 1. Configure a resource group & storage account
  
