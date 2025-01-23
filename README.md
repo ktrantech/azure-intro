@@ -28,7 +28,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Step 1. Configure a resource group & storage account</h2>
 
- Step 1. Configure a resource group & storage account
  
 
 https://github.com/user-attachments/assets/8db7bf80-6ed1-4f0e-a95c-3e9f44966ad4
