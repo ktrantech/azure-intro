@@ -41,4 +41,9 @@ https://github.com/user-attachments/assets/8db7bf80-6ed1-4f0e-a95c-3e9f44966ad4
 <h2>Step 2. Create a text file on your local desktop (Mac)</h2>
 
 
+https://github.com/user-attachments/assets/b9585b60-baa9-47a1-a592-d2081647ee91
+
+- Watch Instructional Video Above
+- Upload the text file you created to the Azure Storage Account
+- Edit the file within the Storage Account
 
