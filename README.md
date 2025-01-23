@@ -21,14 +21,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Microsoft Azure Setup Steps</h2>
 
-- Create a resource group & storage account
-- Create a text file on your local desktop (Mac)
+- Configure a resource group & storage account
+- Configure a text file on your local desktop (Mac)
 - Upload the text file you created to the Azure Storage Account
 - Edit the file within the Storage Account
 
 <h2>Introduction to Microsoft Azure Steps</h2>
 
- Step 1. Create a resource group & storage account
+ Step 1. Configure a resource group & storage account
  
 
 https://github.com/user-attachments/assets/8db7bf80-6ed1-4f0e-a95c-3e9f44966ad4
@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/8db7bf80-6ed1-4f0e-a95c-3e9f44966ad4
 
 
 
-<h2>Step 2. Create a text file on your local desktop (Mac)</h2>
+<h2>Step 2. Configure a text file on your local desktop (Mac)</h2>
 
 
 https://github.com/user-attachments/assets/b9585b60-baa9-47a1-a592-d2081647ee91
